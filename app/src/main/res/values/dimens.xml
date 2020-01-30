@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="menu_item_dimen_size">24dp</dimen>
+    <dimen name="counter_left_margin">14dp</dimen>
+    <dimen name="counter_badge_radius">6dp</dimen>
+    <dimen name="counter_text_size">6dp</dimen>
+    <dimen name="counter_text_horizontal_padding">6dp</dimen>
+</resources>
